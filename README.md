@@ -1,3 +1,4 @@
+
 # AeroKin 🌬️
 
 > **GenAI-Powered Atmospheric & Clean Air Command Center** for urban families, children, and vulnerable communities navigating severe winter smog, thermal inversions, and high PM2.5 air pollution.
@@ -123,3 +124,6 @@ Runs 26 comprehensive unit and integration tests across 5 test suites with Vites
 npm run build
 npm start
 ```
+=======
+# AeroKin
+>>>>>>> 59af21264f6fff206cac0a806d2ae6d00b9b3952
